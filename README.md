@@ -1,2 +1,2 @@
 # azure-devops-learnings
-New Hire first month learning
+A New Hire's first month learning
